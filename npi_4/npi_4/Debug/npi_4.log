@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  Convertir.cpp
+c:\users\danie_000\desktop\npi_4\npi_4\convertir.cpp(24): warning C4018: '<': no coinciden signed/unsigned
+c:\users\danie_000\desktop\npi_4\npi_4\convertir.cpp(45): warning C4018: '<': no coinciden signed/unsigned
+  dual.cpp
+c:\users\danie_000\desktop\npi_4\npi_4\dual.cpp(22): warning C4018: '<': no coinciden signed/unsigned
+c:\users\danie_000\desktop\npi_4\npi_4\dual.cpp(67): warning C4018: '<': no coinciden signed/unsigned
+c:\users\danie_000\desktop\npi_4\npi_4\dual.cpp(78): warning C4018: '<': no coinciden signed/unsigned
+  Evaluar.cpp
+c:\users\danie_000\desktop\npi_4\npi_4\evaluar.cpp(21): warning C4018: '<': no coinciden signed/unsigned
+  npi_4.cpp
+  Generando código...
+  npi_4.vcxproj -> C:\Users\danie_000\Desktop\npi_4\Debug\npi_4.exe
