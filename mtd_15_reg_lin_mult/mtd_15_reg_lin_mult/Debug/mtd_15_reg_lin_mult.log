@@ -1,2 +1,7 @@
-﻿  Mtd_Matriz.cpp
-  mtd_15_reg_lin_mult.vcxproj -> C:\Users\danie_000\Desktop\mtd_15_reg_lin_mult\Debug\mtd_15_reg_lin_mult.exe
+﻿  mtd_15_reg_lin_mult.cpp
+c:\users\danie_000\desktop\métodos numéricos proyectos\mtd_15_reg_lin_mult\mtd_15_reg_lin_mult\mtd_15_reg_lin_mult.cpp(104): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\danie_000\desktop\métodos numéricos proyectos\mtd_15_reg_lin_mult\mtd_15_reg_lin_mult\mtd_15_reg_lin_mult.cpp(108): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\danie_000\desktop\métodos numéricos proyectos\mtd_15_reg_lin_mult\mtd_15_reg_lin_mult\mtd_15_reg_lin_mult.cpp(110): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\danie_000\desktop\métodos numéricos proyectos\mtd_15_reg_lin_mult\mtd_15_reg_lin_mult\mtd_15_reg_lin_mult.cpp(112): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\danie_000\desktop\métodos numéricos proyectos\mtd_15_reg_lin_mult\mtd_15_reg_lin_mult\mtd_15_reg_lin_mult.cpp(114): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  mtd_15_reg_lin_mult.vcxproj -> C:\Users\danie_000\Desktop\Métodos Numéricos Proyectos\mtd_15_reg_lin_mult\Debug\mtd_15_reg_lin_mult.exe

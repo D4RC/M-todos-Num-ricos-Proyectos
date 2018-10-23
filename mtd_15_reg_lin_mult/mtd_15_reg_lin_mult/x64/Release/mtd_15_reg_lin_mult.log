@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  mtd_15_reg_lin_mult.cpp
+c:\users\danie_000\desktop\métodos numéricos proyectos\mtd_15_reg_lin_mult\mtd_15_reg_lin_mult\mtd_15_reg_lin_mult.cpp(104): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\danie_000\desktop\métodos numéricos proyectos\mtd_15_reg_lin_mult\mtd_15_reg_lin_mult\mtd_15_reg_lin_mult.cpp(108): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\danie_000\desktop\métodos numéricos proyectos\mtd_15_reg_lin_mult\mtd_15_reg_lin_mult\mtd_15_reg_lin_mult.cpp(110): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\danie_000\desktop\métodos numéricos proyectos\mtd_15_reg_lin_mult\mtd_15_reg_lin_mult\mtd_15_reg_lin_mult.cpp(112): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\danie_000\desktop\métodos numéricos proyectos\mtd_15_reg_lin_mult\mtd_15_reg_lin_mult\mtd_15_reg_lin_mult.cpp(114): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  Mtd_Matriz.cpp
+  Generando código
+  All 185 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  mtd_15_reg_lin_mult.vcxproj -> C:\Users\danie_000\Desktop\Métodos Numéricos Proyectos\mtd_15_reg_lin_mult\x64\Release\mtd_15_reg_lin_mult.exe
