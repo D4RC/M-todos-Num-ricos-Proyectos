@@ -1,7 +1,7 @@
-﻿  pch.cpp
-  mtd_16_reg_lin_mul_ex.cpp
-  Mtd_Matriz.cpp
+﻿  mtd_16_reg_lin_mul_ex.cpp
   Generando código
-  All 220 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  2 of 220 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   Generación de código finalizada
   mtd_16_reg_lin_mul_ex.vcxproj -> C:\Users\danie_000\Desktop\Métodos Numéricos Proyectos\mtd_16_reg_lin_mul_ex\x64\Release\mtd_16_reg_lin_mul_ex.exe
