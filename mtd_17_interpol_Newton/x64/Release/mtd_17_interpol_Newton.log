@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  mtd_17_interpol_Newton.cpp
+c:\users\danie_000\desktop\mtd_17_interpol_newton\mtd_17_interpol_newton.cpp(18): warning C4309: 'inicializando': truncamiento de valor constante
+  Generando código
+  All 172 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  mtd_17_interpol_Newton.vcxproj -> C:\Users\danie_000\Desktop\mtd_17_interpol_Newton\x64\Release\mtd_17_interpol_Newton.exe
